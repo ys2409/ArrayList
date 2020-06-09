@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArrayList</string>
+    <item name="textView" type="id" />
+</resources>
